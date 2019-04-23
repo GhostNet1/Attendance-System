@@ -1,4 +1,4 @@
-# Attendance
+# Attendance management System using C#,ASP.net, MySQL, CSS
 Attendance Portal
 You can request for a source code if you need. 
 My files are right protected
